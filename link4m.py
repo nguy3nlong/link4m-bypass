@@ -146,6 +146,12 @@ if type == 'https://modulbank.ru.com/' or type == 'https://modulbank.ru.com' or 
     path = '/'
     hostname = url
     service = 'https://s1.what-on.com/widget/service.js'
+if type == 'https://88aas.com/' or type == 'https://88aas.com' or type == 'http://88aas.com/' or type == '88aas.com':
+    url = 'https://88aas.com/'
+    key = 'fJn539c7'
+    path = '/'
+    hostname = url
+    service = 'https://s1.what-on.com/widget/service.js'
 headers = {
     'accept': '*/*',
     'accept-language': 'en-US,en;q=0.9',
