@@ -35,6 +35,34 @@ if type == 'https://www.bape-shirt.us.com/' or type == 'https://www.bape-shirt.u
     hostname = url
     service = 'https://s1.what-on.com/widget/service.js'
 
+if type == 'https://ilink.ru.com/' or type == 'https://ilink.ru.com' or type == 'http://ilink.ru.com/' or type == 'ilink.ru.com':
+    url = 'https://ilink.ru.com/'
+    key = 'z295Z'
+    path = '/'
+    hostname = url
+    service = 'https://s1.what-on.com/widget/service.js'
+
+if type == 'https://phale.com.vn/' or type == 'https://phale.com.vn' or type == 'http://phale.com.vn/' or type == 'phale.com.vn':
+    url = 'https://phale.com.vn/'
+    key = 'L3IRi3'
+    path = '/'
+    hostname = url
+    service = 'https://s1.what-on.com/widget/service.js'
+
+if type == 'https://huo1tong.cn.com/' or type == 'https://huo1tong.cn.com' or type == 'http://huo1tong.cn.com/' or type == 'huo1tong.cn.com':
+    url = 'https://huo1tong.cn.com/'
+    key = 'kP2ctth'
+    path = '/'
+    hostname = url
+    service = 'https://s1.what-on.com/widget/service.js'
+
+if type == 'https://surflabs.io/' or type == 'https://surflabs.io' or type == 'http://surflabs.io/' or type == 'surflabs.io':
+    url = 'https://surflabs.io/'
+    key = 'IVeaFjaL'
+    path = '/'
+    hostname = url
+    service = 'https://s1.what-on.com/widget/service.js'
+
 if type == 'https://dienlanh61.com/':
     url = 'https://dienlanh61.com/'
     key = 'YjQKK7'
